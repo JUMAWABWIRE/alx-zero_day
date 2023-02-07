@@ -1,0 +1,4 @@
+clear
+clear
+#!/bin/bash
+echo "School"
